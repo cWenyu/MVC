@@ -11,4 +11,5 @@
         </li>
     </ul>
 </main>
+<h1>Hello world!</h1>
 <?php include 'view/footer.php'; ?>
