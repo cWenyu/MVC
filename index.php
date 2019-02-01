@@ -12,4 +12,5 @@
     </ul>
 </main>
 <h1>Hello world!</h1>
+<h2>second trying</h2>
 <?php include 'view/footer.php'; ?>
